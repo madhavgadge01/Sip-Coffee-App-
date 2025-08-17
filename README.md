@@ -27,7 +27,6 @@ It provides an easy way to browse, explore, and buy different types of coffee wi
 - [Madhav Gadge](https://github.com/madhavgadge)
 - [LinkDin](https://www.linkedin.com/in/madhav-gadge-610177343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Mail](madhavgadge01@gmail.com)
-- 
 
   
 ## 📸 Screenshots  
