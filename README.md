@@ -1,4 +1,4 @@
-# ☕ Sip Coffee App  
+# ☕ Sip (Coffee App) 
 
 Sip Coffee App is a modern **Jetpack Compose Android application** designed for coffee lovers.  
 It provides an easy way to browse, explore, and buy different types of coffee with a clean UI and smooth navigation.  
