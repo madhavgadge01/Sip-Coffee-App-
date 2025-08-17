@@ -14,6 +14,20 @@ It provides an easy way to browse, explore, and buy different types of coffee wi
 - Bottom navigation for smooth navigation between screens  
 
 ---
+## 🛠️ Tech Stack  
+- **Language:** Kotlin  
+- **UI:** Jetpack Compose, Material3  
+- **Architecture:** Single-Activity with Compose Navigation  
+
+---
+
+
+## 👨‍💻 Author
+
+- [Madhav Gadge](https://github.com/madhavgadge)
+- [LinkDin](https://www.linkedin.com/in/madhav-gadge-610177343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Mail](madhavgadge01@gmail.com)
+- 
 
   
 ## 📸 Screenshots  
@@ -24,9 +38,4 @@ It provides an easy way to browse, explore, and buy different types of coffee wi
 
 ---
 
-## 🛠️ Tech Stack  
-- **Language:** Kotlin  
-- **UI:** Jetpack Compose, Material3  
-- **Architecture:** Single-Activity with Compose Navigation  
 
----
